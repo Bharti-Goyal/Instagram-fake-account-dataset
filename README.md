@@ -11,14 +11,3 @@ For this research project, we utilized the InstaFake dataset, which is publicly 
 
 Acknowledgements
 We would like to express our gratitude to the creator of the InstaFake dataset, fcakyon, for making this dataset available to the research community. By providing access to this dataset, fcakyon has enabled researchers like us to advance knowledge in the field of fake profile detection and contribute to enhancing online security and trustworthiness.
-
-Citation
-If you use the InstaFake dataset in your research or publications, please cite the following:
-
-@misc{fcakyon_instafake_dataset,
-  author       = {fcakyon},
-  title        = {InstaFake Dataset},
-  howpublished = {\url{https://github.com/fcakyon/instafake-dataset}},
-  year         = {20XX},
-  note         = {Accessed on [Insert Access Date]}
-}
